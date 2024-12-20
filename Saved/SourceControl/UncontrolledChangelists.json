@@ -9,6 +9,10 @@
 				"D:/TESTINGGIT/Content/TopDown/Maps/Map.umap",
 				"D:/TESTINGGIT/Content/TopDown/Blueprints/Towers/Projectiles/BP_BallistaProj.uasset",
 				"D:/TESTINGGIT/Content/TopDown/Blueprints/Towers/BP_TowerBallista.uasset",
+				"D:/TESTINGGIT/Content/TopDown/Blueprints/Enemies/BP_EnemySpawn.uasset",
+				"D:/TESTINGGIT/Content/TopDown/Blueprints/Enemies/BP_EnemySpawn1.uasset",
+				"D:/TESTINGGIT/Content/TopDown/Blueprints/BP_MC.uasset",
+				"D:/TESTINGGIT/Content/TopDown/Blueprints/BP_Goal.uasset",
 				"D:/GameDev Assignments/TD_Matthew_Daniel/Content/StarterContent/Audio/Collapse01.uasset",
 				"D:/GameDev Assignments/TD_Matthew_Daniel/Content/TopDown/Images/Icon.uasset",
 				"D:/GameDev Assignments/TD_Matthew_Daniel/Content/TopDown/Maps/Map.umap"
