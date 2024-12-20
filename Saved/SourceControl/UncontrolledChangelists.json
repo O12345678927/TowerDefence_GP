@@ -7,10 +7,11 @@
 			"files": [
 				"D:/TESTINGGIT/Content/TopDown/Blueprints/UI/TowerDetails.uasset",
 				"D:/TESTINGGIT/Content/TopDown/Maps/Map.umap",
+				"D:/TESTINGGIT/Content/TopDown/Blueprints/Towers/Projectiles/BP_BallistaProj.uasset",
+				"D:/TESTINGGIT/Content/TopDown/Blueprints/Towers/BP_TowerBallista.uasset",
 				"D:/GameDev Assignments/TD_Matthew_Daniel/Content/StarterContent/Audio/Collapse01.uasset",
 				"D:/GameDev Assignments/TD_Matthew_Daniel/Content/TopDown/Images/Icon.uasset",
-				"D:/GameDev Assignments/TD_Matthew_Daniel/Content/TopDown/Maps/Map.umap",
-				"D:/TESTINGGIT/Content/TopDown/Blueprints/UI/TowerDetails.uasset"
+				"D:/GameDev Assignments/TD_Matthew_Daniel/Content/TopDown/Maps/Map.umap"
 			]
 		}
 	]
